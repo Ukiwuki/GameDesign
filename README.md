@@ -22,7 +22,7 @@
 ### Macho Sim, 2005
 Симулятор свиданий в курортном городке для J2ME-телефонов с RPG-элементами и кучей мини-игр.  
 Занимался гейм-дизайном на проектной основе для _Herocraft_.
-- [Диздок](https://github.com/Ukiwuki/GameDesign/blob/main/GDD%20-%20InBed.pdf)
+- [Диздок](https://drive.google.com/file/d/1wfA7uipOdJJkvFKMmaVKub9XPAcM_nDg)
 - [J2ME-билд игры](https://mobile.phoneky.com/games/?id=j4j43653), нашелся на каком-то древнем портале
 
 ### Xeno Hockey, 2002
