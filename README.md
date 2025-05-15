@@ -35,15 +35,16 @@
   
   
 ## Прототипы
+__Recoil Rick__, 2023  
+_Vampire Survivors_-like, но герой движется только за счет отдачи оружия  
+- [Видео геймплея](https://youtu.be/cAnTP0ghLrM)
+- [Билд игры](https://ukiwuki.itch.io/recoil-rick)
+
 __Noir Detective__, 2021  
 Нуарный детектив с перемещением по карте, разговорами и сбором улик в визуальном стиле _Sin City_ 
 - [Видео визуального прототипа](https://youtu.be/T0EZMNyelE4)
 - [Дизайн-документация](https://1drv.ms/o/c/df93e6f473aa94d8/EmEiSKqSivNDtB_qZsUvPQUBkYzmpSBtLW6Q8PyDiCE2Hw?e=hHIK2q): концепт-док и начальная проработка дизайна с нарративом
 
-__Recoil Rick__, 2023  
-_Vampire Survivors_-like, но герой движется только за счет отдачи оружия  
-- [Видео геймплея](https://youtu.be/cAnTP0ghLrM)
-- [Билд игры](https://ukiwuki.itch.io/recoil-rick)
 
 __Davinchi vs Mongols__, 2019  
 Динамичный Tower Defence, где массы врагов непредсказуемо прорывают оборону.
